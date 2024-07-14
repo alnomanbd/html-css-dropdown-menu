@@ -15,7 +15,7 @@ body{
 }
 
 .menu-bar{
-    background: rgb(0, 100, 0);
+    background: #664d4a;
     text-align: center;
 }
 
@@ -37,7 +37,7 @@ body{
 }
 
 .active, .menu-bar ul li:hover{
-    background: #2bab0d;
+    background: #CDB0AC;
     border-radius: 3px;
 }
 
@@ -53,7 +53,7 @@ body{
 .menu-bar ul li:hover .sub-menu-1{
     display: block;
     position: absolute;
-    background: rgb(0, 100, 0);
+    background: #664d4a;
     margin-top: 15px;
     margin-left: -15px;
 }
@@ -77,7 +77,7 @@ body{
 }
 
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover{
-    color: #b2ff00;
+    color: #CDB0AC
 }
 
 .fa-angle-right{
@@ -93,5 +93,5 @@ body{
     display: block;
     margin-top: -40px;
     margin-left: 140px;
-    background: rgb(0, 100, 0);
+    background: #664d4a;
 }
